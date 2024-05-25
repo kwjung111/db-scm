@@ -1,5 +1,6 @@
 This project is a Source Code Management tool for MySQL database.
 
 Features:
- - periodically checks procedures and triggers, and notifies if there are modifications.
- - 
+ - Periodically checks procedures and triggers 
+ - Notifies db manager if there are any modifications to the procedures or triggers.
+ - Records the definitions of triggers and procedures to track changes.
